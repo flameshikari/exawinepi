@@ -20,7 +20,7 @@ RUN rmdir /opt/exagear/lic && rm /opt/exagear/bin/actool /opt/exagear/images/def
 
 COPY ./install.sh ./
 
-RUN exagear default -- /tmp/install.sh
+RUN exagear default -- /bin/bash /tmp/install.sh
 
 RUN rm -rf ./*
 
