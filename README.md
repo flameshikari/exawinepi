@@ -1,5 +1,5 @@
 # **ExaWinePi**
-![Docker Pulls](https://img.shields.io/docker/pulls/flameshikari/exawinepi?style=flat) ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/flameshikari/exawinepi/latest)
+[![Pulls](https://img.shields.io/docker/pulls/flameshikari/exawinepi?style=flat)](https://hub.docker.com/r/flameshikari/exawinepi) [![Image Size](https://img.shields.io/docker/image-size/flameshikari/exawinepi/latest)](https://hub.docker.com/r/flameshikari/exawinepi)
 
 Dockerized [ExaGear](http://elbrus-technologies.com) with preinstalled Wine for running 32-bit Windows apps on [RPi](https://www.raspberrypi.org) [3](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus)/[4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b) or anything that is armhf/arm64.
 
